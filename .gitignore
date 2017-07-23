@@ -1,0 +1,5 @@
+html
+resources
+python-wrapper
+.*
+!/.gitignore
